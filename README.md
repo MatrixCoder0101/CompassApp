@@ -1,6 +1,6 @@
 # Compass
 
-A simple HTML5 [compass web app](https://lamplightdev.github.io/compass) that's offline capable.
+A simple HTML5 [compass web app](https://cyberexpert0101.github.io/CompassApp/) that's offline capable.
 
 Makes use of the HTML5 Location, Device Orientation, Screen Orientation, Screen Lock and Fullscreen APIs.
 
